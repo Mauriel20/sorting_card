@@ -10,7 +10,7 @@ margin: 0;
 
 .contenedor{
 font-size: 1em;   
-/* calcula el tamao del padre y se adapta */
+
 background-color: white;
 height: 85px;
 width: 75px;
@@ -23,7 +23,7 @@ display: flex;
 justify-content: center;
 align-items: center;
 align-content: center;
-/* transform: scale(0.5);  */
+
 
 margin-top: 40px;
 margin-right: 40px;
@@ -45,9 +45,7 @@ left: 4%;
 .divcentral{
     text-align: center;
     
- /* position: absolute;
-top:31% ;
-left: 40%; */
+
 }
 
 .divinf{
@@ -62,7 +60,7 @@ bottom: 4%;
 }
 
 .linea1{
-  /* background-color: red; */
+
   padding: 0;
   
 
