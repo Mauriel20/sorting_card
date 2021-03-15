@@ -1,8 +1,8 @@
 body{
 
-background-color: green;
-
-
+background-color: #deebdd;
+background-image: linear-gradient(315deg, #deebdd 0%, #bbdbbe 74%);
+background: ;
 margin: 0;
         padding: 0;
         box-sizing: border-box;
@@ -75,13 +75,23 @@ bottom: 4%;
 
     .linea2{
         display: flex;
+        justify-content: center;
     }
 
     .linea3{
         display: block;
+        justify-content: center;
+    }
+
+    .contenedor3{
+        display: flex;
+        justify-content: center;
+
     }
 
 
    
-
+.music{
+    visibility: hidden;
+}
 
